@@ -1,0 +1,29 @@
+#stopwatch{
+    padding: 2% 0% 5%;
+    border: solid black;
+    margin: 15% 35%;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+button{
+    padding: 4% 6%;
+    font-size: 16px;
+    margin: 0px 3%;
+}
+
+.secondsvirtual{
+    position: absolute;
+    top:43%;
+    color: transparent;
+
+}
+.classtop{
+
+    transition:all 0.5s ease-in-out ;
+    top: 38.5%;
+    color: black;
+}
